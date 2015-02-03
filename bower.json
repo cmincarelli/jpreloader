@@ -1,0 +1,24 @@
+{
+  "name": "jpreloader",
+  "version": "0.0.0",
+  "main": [
+    "js/jpreloader.js",
+    "css/jpreloader.css"
+  ],
+  "homepage": "https://github.com/cmincarelli/jpreloader",
+  "authors": [
+    "Chris Mink <chrism-air@local>"
+  ],
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
